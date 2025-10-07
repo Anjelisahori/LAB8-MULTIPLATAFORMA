@@ -47,8 +47,8 @@ La aplicación maneja las siguientes categorías:
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/sports-store-app.git
-   cd sports-store-app
+   git clone https://github.com/Anjelisahori/LAB8-MULTIPLATAFORMA.git
+   cd LAB8-MULTIPLATAFORMA
    ```
 
 2. **Instalar dependencias**
